@@ -58,7 +58,7 @@ cv2.imshow('image',output)
 # draw green text on the image
 output = image.copy()
 cv2.putText(output, "This is my text!", (10, 25),
-	cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)
+cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)
 cv2.imshow('image',output)
 # cv2.waitKey(0)
 
