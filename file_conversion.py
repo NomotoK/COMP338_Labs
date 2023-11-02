@@ -1,7 +1,7 @@
 import os
 
 # 指定文件夹路径
-folder_path = "C:/Users/Hailin/Documents/Obsidian-Vault/comp208"
+folder_path = "C:/Users/Hailin/Documents/Obsidian-Vault/_legacy/comp124/labs"
 
 # 指定输出文件名
 output_file = "file_list.txt"
